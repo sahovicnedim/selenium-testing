@@ -101,8 +101,7 @@ public class MyFirstTestCase extends BaseTest {
 
 
     }
-
-//    @Test //junit4
+    
       @Test //junit5
     public void secondTest() throws InterruptedException {
         //  System.setProperty("webdriver.chrome.driver","C:\\Users\\dell\\Desktop\\Selenium\\chromedriver.exe");
